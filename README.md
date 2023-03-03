@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Cologne69
-- 👀 I’m interested in Coding, Web Development, Games, Music, Visuals, Engineering, and 
-- 🌱 I’m currently learning Full-stack Software Development (BackEnd: PHP, and C#; FrontEnd: Bootstrap, Tailwind)
-- 💞️ I’m looking to collaborate on CUAN
-- 📫 How to reach me email to kyrellsiauw204@gmail.com or kleanosiauw@student.ciputra.ac.id (Fast Response)
+- 👀 I’m interested in Coding, Web Development, Games, Music, Visuals, Cars
+- 🌱 I’m currently learning Full-stack Software Development (BackEnd: C#, Rust, Go, Python; FrontEnd: Bootstrap, Tailwind, SvelteKit, Svelte, React)
+- 📫 Reach me by emailing to kyrellsiauw204@gmail.com
 
 <!---
 Cologne69/Cologne69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
