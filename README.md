@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cologne69
 - 👀 I’m interested in Coding, Web Development, Games, Music, Visuals, Cars
-- 🌱 I’m currently learning Full-stack Software Development (BackEnd: C#, Rust, Go, Python; FrontEnd: Bootstrap, Tailwind, SvelteKit, Svelte, React)
+- 🌱 I’m currently learning Full-stack Software Development (BackEnd: C#, Go, Python; FrontEnd: Bootstrap, Tailwind, SvelteKit)
 - 📫 Reach me by emailing to kyrellsiauw204@gmail.com
 
 <!---
