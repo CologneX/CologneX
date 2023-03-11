@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Cologne69
-- 👀 I’m interested in Coding, Web Development, Games, Music, Visuals, Cars
+- 👋 Hi, I’m Kyrell
+- 👀 I’m interested in Web Development, Games, Music, IoT, Cars
 - 🌱 I’m currently learning Full-stack Software Development (BackEnd: C#, Go, Python; FrontEnd: Bootstrap, Tailwind, SvelteKit)
 - 📫 Reach me by emailing to kyrellsiauw204@gmail.com
 
