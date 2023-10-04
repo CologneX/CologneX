@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [OpenMerce (Svelte Flowbite & SvelteKit)](https://github.com/CologneX/openmerce-svelteflowbite)
 
-- 🌱 I’m currently learning **SvelteKit, Rust, Actix Web, NodeJS, Docker,**
+- 🌱 I’m currently learning **Rust, Actix Web, Docker, React, React Native,Swift**
 
 - 📫 How to reach me **kyrellsiauw204@gmail.com**
 
