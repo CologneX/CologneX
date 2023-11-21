@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=colognex" alt="colognex" /></a> </p>
 
-- 🔭 I’m currently working on [OpenMerce (Svelte Flowbite & SvelteKit)](https://github.com/CologneX/openmerce-svelteflowbite)
+- 🔭 I’m currently working on Multiple Private Projects
 
 - 🌱 I’m currently learning **Rust, Actix Web, Docker, React, React Native,Swift**
 
