@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Multiple Private Projects
 
-- 🌱 I’m currently learning **Rust, Actix Web, Docker, React, React Native,Swift**
+- 🌱 I’m currently learning **Golang, Docker, React, Flutter, Swift, SwiftUI**
 
 - 📫 How to reach me **kyrellsiauw204@gmail.com**
 
