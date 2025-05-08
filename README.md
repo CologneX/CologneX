@@ -5,16 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=colognex" alt="colognex" /></a> </p>
 
-- 🔭 I’m currently working on Multiple Private Projects
-
-- 🌱 I’m currently learning **Golang, Docker, React, Flutter, Swift, SwiftUI**
-
-- 📫 How to reach me **kyrellsiauw204@gmail.com**
-
-- 📄 Know about my experiences [https://resume.io/r/TDPxaR1wv](https://resume.io/r/TDPxaR1wv)
-
-- ⚡ Fun fact **I'm in love with retrowave/synthwave arts**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kyrellsiauw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kyrellsiauw" height="30" width="40" /></a>
