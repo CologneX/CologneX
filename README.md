@@ -6,7 +6,5 @@
 # 📊 GitHub Stats:
 ![](https://github-stats-extended.vercel.app/api/top-langs/?username=CologneX&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-stats-extended.vercel.app/api?username=CologneX&rank_icon=github&show_icons=true&theme=dark_github)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CologneX&theme=ambient_gradient&no-frame=true&no-bg=false&margin-w=4)
 
 ---
